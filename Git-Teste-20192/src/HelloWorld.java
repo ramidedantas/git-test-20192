@@ -8,7 +8,7 @@ public class HelloWorld {
 		
 		System.out.println("Eclipse");
 		
-		System.out.println("Eclipse - New branch");
+		System.out.println("Eclipse - New branch - 2o commit");
 	}
 
 }
