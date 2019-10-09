@@ -5,6 +5,8 @@ public class HelloWorld {
 		System.out.println("Hello Git World!");
 		
 		System.out.println("Eclipse");
+
+		System.out.println("Bash branch");		
 	}
 
 }
