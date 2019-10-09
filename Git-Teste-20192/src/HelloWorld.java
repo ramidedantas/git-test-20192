@@ -6,7 +6,7 @@ public class HelloWorld {
 		
 		System.out.println("Eclipse");
 
-		System.out.println("Bash master - 1o commit");
+		System.out.println("Bash master - 2o commit");
 
 	}
 
